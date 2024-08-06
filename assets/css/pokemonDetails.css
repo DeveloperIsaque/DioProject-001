@@ -1,0 +1,61 @@
+nav {
+    padding-right: 100%;
+}
+
+.arrowBack {
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+header {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+.name {
+    margin-left: 2rem;
+    font-size: 1.25rem;
+    color: white;
+}
+
+h6 {
+    margin: 0;
+}
+
+.idpokemon {
+    text-align: right;
+    color: white;
+    margin-right: 2rem;
+}
+
+.types {
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+    margin-left: 2rem;
+    list-style-type: none;
+}
+
+.type {
+    margin: 0;
+    margin-right: .938rem;
+    background-color: #f0a46d;
+    padding: 5px 13px;
+    border-radius: 10px;
+}
+
+img {
+    position: sticky;
+    justify-content: center;
+}
+
+section article {
+    height: 100%;
+    background-color: white;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+

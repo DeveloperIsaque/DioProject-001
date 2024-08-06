@@ -48,4 +48,3 @@ loadMoreButton.addEventListener('click', () => {
     }
 })
 
-tentativa()
